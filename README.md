@@ -1,4 +1,4 @@
-# pc-p10-learnathome
+# oc-p10-learnathome
 Définissez les besoins pour une app de soutien scolaire
 
 ## Contexte

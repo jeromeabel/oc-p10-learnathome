@@ -1,20 +1,42 @@
 # PROJECT
 
+
+## QUESTIONS
+- Vocabulaire
+- Rôle Admin, modérateurs ? Parents, Association ?
+- Import ancien annuaires ?
+- Page Connexion, différents zones de connexion pour élève/tuteur
+- Langue ? 
+- Public : enfants âges ?
+- Objectif : Examens ? Niveaux ? Type de matières ?
+- Prix : ? Adhésion ?
+- Inscription / Parents Ages
+- Durées de l'accompagnement ? Rythmes
+- Vidéos de présentations
+- Visio  ? Prestation externe Visio ?
+- Définition du parcours de l'accompagnement ?
+- Textes de présentations ? Témoignages élève+tuteur ? Constats difficultés ? Impact ?
+
+
+- Next : BESOINS - empathy map, event storming
+
 ## TODO
 - [x] Lecture du projet
-- [ ] Suivi des cours
+- [x] Suivi des cours
+- [x] Recherches sur le sujet
+- [ ] Identifier les besoins
 - [ ] Diagrammes de cas d’usage (pas UML)
-    - [ ] Connexion
-    - [ ] Chat
-    - [ ] Calendrier
-    - [ ] Gestionnaire de tâches
-    - [ ] Tableau de bord
+    - [x] Connexion
+    - [x] Chat
+    - [x] Calendrier
+    - [x] Gestionnaire de tâches
+    - [x] Tableau de bord
 - [ ] User stories avec critère(s) d’acceptation
-- [ ] Figma : maquettes du site (desktop, mobile) + explique la navigation entre les pages pendant le meeting
+- [ ] Figma : maquettes du site (desktop, mobile) + navigation pendant le meeting
 - [ ] Kanban : 
-    - [ ] Github ou Notion
-    - [ ] finir de compléter la colonne ”ANALYZE”
-    - [ ] macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement. 
+    - [ ] Github
+    - [ ] Finir de compléter la colonne "ANALYZE"
+    - [ ] Macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement
 
 ## Resources Project
 - Pdf : Notes de réunion et esquisses
@@ -28,12 +50,11 @@
 - https://openclassrooms.com/fr/courses/4511226-gerez-votre-projet-avec-une-equipe-scrum/7414111-explicitez-la-conformite-dune-user-story (partie 3)
 - https://openclassrooms.com/fr/courses/7693926-devenez-developpeur-agile 4h
 - https://openclassrooms.com/fr/courses/5647281-appliquez-le-principe-du-domain-driven-design-a-votre-application 4h
-
-Bonus
 - https://openclassrooms.com/fr/courses/4296701-gerez-un-projet-digital-avec-une-methodologie-en-cascade 8h
+- https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations/4111211-choisissez-la-typographie-adaptee
 
 ## Livrables
-- Nom_Prénom_1_diagramme_cas_usage_mmaaaa.pdf : diagrammes de cas d’usage
-- Nom_Prénom_2_user_stories_mmaaaa.pdf : user stories avec critère(s) d’acceptation.
-- Nom_Prénom_3_maquettes_mmaaaa.pdf : maquettes du site (desktop, mobile)
-- Nom_Prénom_4_kanban_mmaaaa.txt : lien vers le tableau Kanban (Notion, Trello, or GitHub).
+- Nom_Prénom_1_diagramme_cas_usage_mmaaaa.pdf
+- Nom_Prénom_2_user_stories_mmaaaa.pdf
+- Nom_Prénom_3_maquettes_mmaaaa.pdf
+- Nom_Prénom_4_kanban_mmaaaa.txt : lien

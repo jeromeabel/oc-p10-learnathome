@@ -10,6 +10,8 @@ Définissez les besoins pour une app de soutien scolaire
 - Définir les besoins client pour préparer la réunion de lancement
 - Documents : cas d’usage, user stories, maquettes, kanban
 
+## Besoins
+
 ## Compétences
 - Créer une maquette pour un client
 - Identifier les besoins de l'application à partir d'un cahier des charges

@@ -1,10 +1,9 @@
 # USER STORIES
 
 ## TEMPLATE
-| **User Story** | n° |
-| --- | --- |
-| Description  | En tant que __utilisateur__ je veux __fonctionnalité__ afin de __raison__ |
-| Confirmation  | Étant donné __contexte__ lorsque __l'utilisateur effectue certaines actions__ alors __vous constatez telles conséquences__ |
+| **User Story** | **n°** |
+| Description  | En tant que <utilisateur> je veux <fonctionnalité> afin de <raison> |
+| Confirmation  | Étant donné <contexte> lorsque <l'utilisateur effectue certaines actions> alors <vous constatez telles conséquences> |
 
 
 ## CONNEXION

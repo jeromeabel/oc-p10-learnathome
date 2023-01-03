@@ -1,10 +1,5 @@
 # USER STORIES
 
-## TEMPLATE
-| **User Story** | **n°** |
-| --- | --- |
-| Description  | En tant que _utilisateur_ je veux _fonctionnalité_ afin de _raison_ |
-| Confirmation  | Étant donné _contexte_ lorsque _l'utilisateur effectue certaines actions_ alors _vous constatez telles conséquences_ |
 
 
 ## CONNEXION
@@ -15,11 +10,70 @@
 - **Pour** qu'un tuteur m'aide à faire mes devoirs
 
 **Confirmation**
-- **Étant donné** que je ne suis pas encore inscrit
-- **Lorsque** j'accède à la page d'_Inscription_
+- **Étant donné** que je ne suis pas inscrit
+- **Lorsque** je suis sur la page d'_Inscription en tant qu'élève_
 - **Et que** je remplis correctement le formulaire
 - **Alors** je suis inscrit sur le site
-- **Et** j'accède à la page _Tableau de bord_
+- **Et** j'accède à mon espace personnel _Tableau de bord_
+
+### User Story n°2
+- **En tant** que tuteur bénévole
+- **Je souhaite** m'inscrire sur le site
+- **Pour** aider un élève à faire ses devoirs
+- **Et** à s'organiser
+
+**Confirmation**
+- **Étant donné** que je ne suis pas inscrit
+- **Lorsque** je suis sur la page d'_Inscription en tant que tuteur_
+- **Et que** je remplis correctement le formulaire
+- **Alors** je suis inscrit sur le site
+- **Et** j'accède à mon espace personnel _Tableau de bord_
+
+### User Story n°3
+- **En tant** qu'utilisateur déjà inscrit
+- **Je souhaite** me connecter sur le site
+- **Pour** accéder à mon espace personnel
+
+**Confirmation**
+- **Étant donné** que j'ai un compte
+- **Lorsque** je suis sur la page de _Connection_
+- **Et que** je remplis correctement le formulaire
+- **Alors** j'accède à mon espace personnel _Tableau de bord_
+
+### User Story n°4
+- **En tant** qu'utilisateur ayant oublié son mot de passe
+- **Je souhaite** me connecter sur le site
+- **Pour** récupérer mon mot de passe
+- **Et** accéder à mon espace personnel
+
+**Confirmation**
+- **Étant donné** que j'ai un compte
+- **Lorsque** je suis sur la page de _Connection_
+- **Et que** je clique sur le lien _Mot de passe oublié ?_
+- **Et que** je remplis correctement le formulaire
+- **Alors** je reçois un email me demandant de changer de mot de passe
+
+### User Story n°5 (erreur)
+- **En tant** que futur utilisateur
+- **Je souhaite** m'inscrire sur le site
+- **Pour** aider un élève ou être aidé dans mes études
+
+**Confirmation**
+- **Étant donné** que je n'ai pas de compte
+- **Lorsque** je suis sur la page d' _Inscription_
+- **Et que** je ne remplis pas correctement le formulaire
+- **Alors** le site affiche des messages d'assistance appropriés
+
+### User Story n°6 (erreur)
+- **En tant** qu'utilisateur
+- **Je souhaite** me connecter sur le site
+- **Pour** aider un élève ou être aidé dans mes études
+
+**Confirmation**
+- **Étant donné** que jai un compte
+- **Lorsque** je suis sur la page de _Connexion_
+- **Et que** je ne remplis pas correctement le formulaire
+- **Alors** le site affiche des messages d'assistance appropriés
 
 
 ## TABLEAU DE BORD

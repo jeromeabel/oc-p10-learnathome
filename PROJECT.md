@@ -24,8 +24,8 @@
 - [x] Lecture du projet
 - [x] Suivi des cours
 - [x] Recherches sur le sujet
-- [ ] Identifier les besoins
-- [ ] Diagrammes de cas d’usage (pas UML)
+- [x] Identifier les besoins
+- [x] Diagrammes de cas d’usage (pas UML)
     - [x] Connexion
     - [x] Chat
     - [x] Calendrier

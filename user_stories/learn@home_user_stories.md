@@ -3,8 +3,8 @@
 ## TEMPLATE
 | **User Story** | **n°** |
 | --- | --- |
-| Description  | En tant que <utilisateur> je veux <fonctionnalité> afin de <raison> |
-| Confirmation  | Étant donné <contexte> lorsque <l'utilisateur effectue certaines actions> alors <vous constatez telles conséquences> |
+| Description  | En tant que _utilisateur_ je veux _fonctionnalité_ afin de _raison_ |
+| Confirmation  | Étant donné _contexte_ lorsque _l'utilisateur effectue certaines actions_ alors _vous constatez telles conséquences_ |
 
 
 ## CONNEXION

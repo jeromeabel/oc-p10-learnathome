@@ -2,32 +2,47 @@
 
 
 
-## CONNEXION
+## INSCRIPTION
+
 
 ### User Story n°1
-- **En tant** qu'élève
-- **Je souhaite** m'inscrire sur le site
-- **Pour** qu'un tuteur m'aide à faire mes devoirs
+| Description | Critères d'acceptation |
+| --- |  --- |
+| **En tant qu'** élève en difficulté | **Étant donné que** je ne suis pas inscrit |
+| **Je souhaite** m'inscrire sur le site | **Lorsque** je suis sur la page d'_Inscription_  
+| **Pour** qu'un tuteur m'aide à faire mes devoirs | **Et que** je remplis correctement le formulaire | 
+| | **Et que** je confirme l'inscription |
+| | **Alors** je suis inscrit sur le site |
+| | **Et** j'accède à mon espace personnel _Tableau de bord_ |
 
-**Confirmation**
-- **Étant donné** que je ne suis pas inscrit
-- **Lorsque** je suis sur la page d'_Inscription en tant qu'élève_
-- **Et que** je remplis correctement le formulaire
-- **Alors** je suis inscrit sur le site
-- **Et** j'accède à mon espace personnel _Tableau de bord_
+
+
+### User Story n°1
+| Description |
+| --- | 
+| **En tant qu'** élève en difficulté |
+| **Je souhaite** m'inscrire sur le site |
+| **Pour** qu'un tuteur m'aide à faire mes devoirs |
+
+| Critères d'acceptation |
+| --- |
+| **Étant donné que** je ne suis pas inscrit |
+| **Lorsque** je suis sur la page d'_Inscription_  
+| **Et que** je remplis correctement le formulaire | 
+| **Et que** je confirme l'inscription |
+| **Alors** je suis inscrit sur le site |
+| **Et** j'accède à mon espace personnel _Tableau de bord_ |
+
 
 ### User Story n°2
-- **En tant** que tuteur bénévole
+- **En tant** qu'élève ou tuteur bénévole
 - **Je souhaite** m'inscrire sur le site
-- **Pour** aider un élève à faire ses devoirs
-- **Et** à s'organiser
+- **Pour** qu'un tuteur m'aide à faire mes devoirs
+- **Ou Pour** aider un élève à faire ses devoirs et à s'organiser
 
-**Confirmation**
-- **Étant donné** que je ne suis pas inscrit
-- **Lorsque** je suis sur la page d'_Inscription en tant que tuteur_
-- **Et que** je remplis correctement le formulaire
-- **Alors** je suis inscrit sur le site
-- **Et** j'accède à mon espace personnel _Tableau de bord_
+
+## CONNEXION
+
 
 ### User Story n°3
 - **En tant** qu'utilisateur déjà inscrit

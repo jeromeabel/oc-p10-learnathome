@@ -2,23 +2,24 @@
 
 
 ## QUESTIONS
-- Vocabulaire
-- Rôle Admin, modérateurs ? Parents, Association ?
-- Import ancien annuaires ?
-- Page Connexion, différents zones de connexion pour élève/tuteur
-- Langue ? 
-- Public : enfants âges ?
-- Objectif : Examens ? Niveaux ? Type de matières ?
-- Prix : ? Adhésion ?
-- Inscription / Parents Ages
-- Durées de l'accompagnement ? Rythmes
-- Vidéos de présentations
-- Visio  ? Prestation externe Visio ?
-- Définition du parcours de l'accompagnement ?
-- Textes de présentations ? Témoignages élève+tuteur ? Constats difficultés ? Impact ?
+- **Pages** : Accueil, Inscription, Profil (notifications, photos, bio, supprimer son compte)
+- **Rôles** : Tuteur ou Bénévole ? Administrateur, Modérateurs, Parents, Associations
+- **Anciens comptes** :  Import ancien annuaire ?
+- **Inscription** : gratuité ?, rôle des parents si élèves mineurs ? pages différentes pour élève ou tuteur, critères, charte, formulaire plus complet après confirmation (parcours, motivation, thèmes, matières, disponibilité, envies)
+- **Binôme** : critères d'association, modérateur
+- **Chat** : Modération (critères)
+- **Langue** : ?
+- **Public** : enfants âges ? rôle des parents si mineurs
+- **Objectif d'accompagnement** : Examens ? Niveaux ? Type de matières ? Canevas de parcours prédéfinis
+- **Durées de l'accompagnement** : ? Rythmes
+- **Prix** : Adhésion ?
+- **Contenu** : Vidéos de présentations, Charte, Témoignages élève+tuteur ? Constats difficultés ? Impact ?
+- **Rendez-vous** : Visio ? intégré ou prestation externe ?
+- **Tâches** Tuteur, précisions droits d'accès aux tâches de l'élève
 
-
-- Next : BESOINS - empathy map, event storming
+- **Next** : 
+    - BESOINS + VOCABULAIRE - entretiens empathy map, event storming
+    - CAHIER DES CHARGES FONCTIONNEL
 
 ## TODO
 - [x] Lecture du projet
@@ -34,7 +35,6 @@
 - [ ] User stories avec critère(s) d’acceptation
 - [ ] Figma : maquettes du site (desktop, mobile) + navigation pendant le meeting
 - [ ] Kanban : 
-    - [ ] Github
     - [ ] Finir de compléter la colonne "ANALYZE"
     - [ ] Macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement
 

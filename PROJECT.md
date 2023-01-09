@@ -1,8 +1,12 @@
 # PROJECT
 
+## DIFFICULTÉS
+- Pas de travail d'équipe
+- Pas de conversations
+- Pas d'entretiens
 
 ## QUESTIONS
-- **Pages** : Accueil, Inscription, Profil (notifications, photos, bio, supprimer son compte)
+- **Pages** : Accueil, Inscription, Profil (notifications, photos, bio, supprimer son compte, mise en page, langue)
 - **Rôles** : Tuteur ou Bénévole ? Administrateur, Modérateurs, Parents, Associations
 - **Anciens comptes** :  Import ancien annuaire ?
 - **Inscription** : gratuité ?, rôle des parents si élèves mineurs ? pages différentes pour élève ou tuteur, critères, charte, formulaire plus complet après confirmation (parcours, motivation, thèmes, matières, disponibilité, envies)
@@ -15,8 +19,8 @@
 - **Prix** : Adhésion ?
 - **Contenu** : Vidéos de présentations, Charte, Témoignages élève+tuteur ? Constats difficultés ? Impact ?
 - **Rendez-vous** : Visio ? intégré ou prestation externe ?
-- **Tâches** Tuteur, précisions droits d'accès aux tâches de l'élève
-
+- **Tâches** Tuteur, précisions droits d'accès aux tâches de l'élève, qu'est-ce qu'une tâche pour les étudiants ?
+- **Notifications?, Alertes** : tâches non réalisées, événements à venir, nouveaux messages, etc
 - **Next** : 
     - BESOINS + VOCABULAIRE - entretiens empathy map, event storming
     - CAHIER DES CHARGES FONCTIONNEL
@@ -27,16 +31,32 @@
 - [x] Recherches sur le sujet
 - [x] Identifier les besoins
 - [x] Diagrammes de cas d’usage (pas UML)
+    - [x] Inscription (non demandé)
     - [x] Connexion
     - [x] Chat
     - [x] Calendrier
     - [x] Gestionnaire de tâches
     - [x] Tableau de bord
-- [ ] User stories avec critère(s) d’acceptation
-- [ ] Figma : maquettes du site (desktop, mobile) + navigation pendant le meeting
-- [ ] Kanban : 
-    - [ ] Finir de compléter la colonne "ANALYZE"
-    - [ ] Macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement
+- [x] User stories avec critère(s) d’acceptation
+- [ ] Personas
+- [x] Maquette #1 - identité visuelle
+    - [x] Refaire logo Learn@Home
+    - [x] Recherches Dribbble dashboard
+    - [x] Recherches polices
+    - [x] Textes tailles
+    - [x] Palette de couleurs
+    - [x] Lister composants nécessaires
+    - [x] Composants
+    - [x] Icônes
+- [x] Maquette #2 - Figma
+    - [x] Identité graphique
+    - [x] Desktop
+    - [x] Mobile
+    - [ ] Interactions à expliquer
+- [ ] Kanban : colonne "ANALYZE"
+    - [] blocs macro (pas détail) fonctionnalités
+    - [] sous-fonctionnalités
+
 
 ## Resources Project
 - Pdf : Notes de réunion et esquisses

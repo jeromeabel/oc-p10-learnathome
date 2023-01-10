@@ -1,9 +1,8 @@
 # PROJECT
 
 ## DIFFICULTÉS
-- Pas de travail d'équipe
-- Pas de conversations
-- Pas d'entretiens
+- Pas d'échanges avec une équipe ou le client
+- Pas de contenus pour la maquette et les user stories
 
 ## QUESTIONS
 - **Pages** : Accueil, Inscription, Profil (notifications, photos, bio, supprimer son compte, mise en page, langue)
@@ -30,33 +29,32 @@
 - [x] Suivi des cours
 - [x] Recherches sur le sujet
 - [x] Identifier les besoins
-- [x] Diagrammes de cas d’usage (pas UML)
+- [x] Diagrammes de cas d’usage
     - [x] Inscription (non demandé)
     - [x] Connexion
     - [x] Chat
     - [x] Calendrier
     - [x] Gestionnaire de tâches
     - [x] Tableau de bord
+- [x] Personas
 - [x] User stories avec critère(s) d’acceptation
-- [ ] Personas
-- [x] Maquette #1 - identité visuelle
+- [x] Maquette #1 - identité graphique
     - [x] Refaire logo Learn@Home
-    - [x] Recherches Dribbble dashboard
+    - [x] Recherches Dribbble, Behance
     - [x] Recherches polices
     - [x] Textes tailles
     - [x] Palette de couleurs
     - [x] Lister composants nécessaires
     - [x] Composants
     - [x] Icônes
-- [x] Maquette #2 - Figma
+- [x] Maquette #2 - [Figma](https://www.figma.com/file/7b9KuU85XksOOEYOlMXto8/Maquette-Learn%40Home?node-id=3%3A2)
     - [x] Identité graphique
     - [x] Desktop
     - [x] Mobile
-    - [ ] Interactions à expliquer
-- [ ] Kanban : colonne "ANALYZE"
-    - [] blocs macro (pas détail) fonctionnalités
-    - [] sous-fonctionnalités
-
+    - [x] Interactions à expliquer
+- [x] Kanban
+    - [x] Issues = User Stories (+critères)
+    - [x] Issues = Fonctionnalities (colonne "ANALYZE") + objectif + user stories + interface
 
 ## Resources Project
 - Pdf : Notes de réunion et esquisses

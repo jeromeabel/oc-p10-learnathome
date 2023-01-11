@@ -3,6 +3,7 @@
 ## DIFFICULTÉS
 - Pas d'échanges avec une équipe ou le client
 - Pas de contenus pour la maquette et les user stories
+- Terminologie "Maquette" ?
 
 ## QUESTIONS
 - **Pages** : Accueil, Inscription, Profil (notifications, photos, bio, supprimer son compte, mise en page, langue)

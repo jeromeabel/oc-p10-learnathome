@@ -1,9 +1,17 @@
 # PROJECT
 
+## Compétences
+- Créer une maquette pour un client
+- Identifier les besoins de l'application à partir d'un cahier des charges
+- Contribuer à un projet en utilisant une méthodologie agile
+- Modéliser une solution technique pour un client
+ww
+
 ## DIFFICULTÉS
 - Pas d'échanges avec une équipe ou le client
 - Pas de contenus pour la maquette et les user stories
 - Terminologie "Maquette" ?
+- Kanban ? titre des colonnes ? Niveau de détails ?
 
 ## QUESTIONS
 - **Pages** : Accueil, Inscription, Profil (notifications, photos, bio, supprimer son compte, mise en page, langue)
